@@ -1,0 +1,7 @@
+Add your own photos here using these exact filenames:
+photo1.jpg
+photo2.jpg
+photo3.jpg
+photo4.jpg
+
+The website will automatically show them in the matching photo frames.
